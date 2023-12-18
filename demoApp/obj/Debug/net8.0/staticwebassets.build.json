@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "/3G4ERBJjmot/FxkGHOnQvADmQsf4GzlhQtrH4S6Zik=",
+  "Source": "demoApp",
+  "BasePath": "_content/demoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "demoApp/wwwroot",
+      "Source": "demoApp",
+      "ContentRoot": "/home/wendecoder/DotnetApps/demoApp/wwwroot/",
+      "BasePath": "_content/demoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/wendecoder/DotnetApps/demoApp/wwwroot/css/styles.css",
+      "SourceId": "demoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/wendecoder/DotnetApps/demoApp/wwwroot/",
+      "BasePath": "_content/demoApp",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/styles.css"
+    },
+    {
+      "Identity": "/home/wendecoder/DotnetApps/demoApp/wwwroot/index.html",
+      "SourceId": "demoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/wendecoder/DotnetApps/demoApp/wwwroot/",
+      "BasePath": "_content/demoApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/wendecoder/DotnetApps/demoApp/wwwroot/js/app.js",
+      "SourceId": "demoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/wendecoder/DotnetApps/demoApp/wwwroot/",
+      "BasePath": "_content/demoApp",
+      "RelativePath": "js/app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/app.js"
+    }
+  ]
+}
